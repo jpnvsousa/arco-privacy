@@ -66,9 +66,9 @@ h2 {
 
 h3 { margin: 24px 0 8px; font-size: 18px; }
 
-p, ul { margin: 0 0 14px; }
+p, ul, ol { margin: 0 0 14px; }
 
-ul { padding-left: 22px; }
+ul, ol { padding-left: 22px; }
 
 li { margin-bottom: 6px; }
 
